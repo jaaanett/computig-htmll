@@ -1,0 +1,21 @@
+body{
+    background-color: crimson;
+    color: burlywood;
+}
+    
+h1, h5{
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+h1:hover {
+    color: darkorchid;
+}
+
+.box{
+    background-color: hotpink;
+    color: black;
+    padding: 20px;
+    margin: 100px;
+}
